@@ -16,6 +16,8 @@ Counting accidents hides the real story. Over 12 months (Jul 2025 – Jun 2026) 
 
 7 vs 5 injuries look similar, but contractors worked far fewer hours. **After normalising by man-hours, contractors carry about 2× the lost-time injury rate.** Without the exposure table this finding is invisible.
 
+![LTIFR by employment type (synthetic data)](docs/ltifr_by_employment_type.png)
+
 ## Database schema (6 tables)
 
 | Table | Contents |
